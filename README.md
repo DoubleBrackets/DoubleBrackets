@@ -1,0 +1,17 @@
+Hi, I’m Arthur Gan, a 1st year attending University of California, Davis. My github user is @DoubleBrackets
+I'm interested in anything CS related, but especially video game development!
+Currently learning about web development!
+
+Looking to collaborate on anyone who wants to make a game together!
+Contact:
+arthurgan29@gmail.com
+
+Pages:
+https://doublebrackets.itch.io/
+https://www.linkedin.com/in/arthur-gan-db/
+
+
+<!---
+DoubleBrackets/DoubleBrackets is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
