@@ -10,9 +10,11 @@ Contact:
 
 arthurgan29@gmail.com
 
-Pages:
+Check out my games at
 
 https://doublebrackets.itch.io/
+
+Linkedin:
 
 https://www.linkedin.com/in/arthur-gan-db/
 
