@@ -4,8 +4,6 @@ I'm interested in anything CS related, but especially video game development!
 
 Currently learning about outline shaders .-.
 
-Looking to collaborate on anyone who wants to make a game together!
-
 Contact:
 
 arthurgan29@gmail.com
