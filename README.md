@@ -2,7 +2,7 @@ Hi, I’m Arthur Gan, a 1st year attending University of California, Davis. My g
 
 I'm interested in anything CS related, but especially video game development!
 
-Currently learning Linq
+Currently learning Pico-8 and LUA
 
 Contact:
 
