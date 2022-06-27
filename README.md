@@ -2,7 +2,7 @@ Hi, I’m Arthur Gan, a 2nd year attending University of California, Davis. My g
 
 I'm interested in anything CS related, but especially video game development!
 
-Currently learning Audio programming.
+Currently practicing leetcode + learning drawing?
 
 Contact:
 
