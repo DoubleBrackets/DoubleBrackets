@@ -2,8 +2,6 @@ Hi, I’m Arthur Gan, a 2nd year attending University of California, Davis. My g
 
 I'm interested in anything CS related, but especially video game development!
 
-Currently practicing leetcode + learning drawing?
-
 Contact:
 
 arthurgan29@gmail.com
