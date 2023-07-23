@@ -1,4 +1,4 @@
-Hi, I’m Arthur Gan, a 2nd year attending University of California, Davis. My github user is @DoubleBrackets
+Hi, I’m Arthur Gan, a 3rd year attending University of California, Davis. My github user is @DoubleBrackets
 
 I'm interested in anything CS related, but especially video game development!
 
