@@ -1,8 +1,6 @@
-Someone who putters around, sometimes.
+Someone who putters around, sometimes. Check out my stuff at [arthurgan.com](arthurgan.com)
 
-Games: https://doublebrackets.itch.io/
 
-Twitter: https://x.com/DooubleBrackets
 
 
  
