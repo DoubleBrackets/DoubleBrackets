@@ -1,4 +1,4 @@
-Making games n stuff.
+Making games n stuff @ [arthurgan.com](arthurgan.com)
 
  
 <!---
