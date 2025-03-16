@@ -1,7 +1,4 @@
-Check out my games n' stuff at [arthurgan.com](arthurgan.com)
-
-
-
+Making games n stuff.
 
  
 <!---
