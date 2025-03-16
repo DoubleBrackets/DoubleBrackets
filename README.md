@@ -1,4 +1,4 @@
-Making games n stuff @ [arthurgan.com](arthurgan.com)
+Making games n stuff @ [arthurgan.com](https://arthurgan.com)
 
  
 <!---
