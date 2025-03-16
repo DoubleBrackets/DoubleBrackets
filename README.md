@@ -1,4 +1,4 @@
-Someone who putters around, sometimes. Check out my stuff at [arthurgan.com](arthurgan.com)
+Check out my games n' stuff at [arthurgan.com](arthurgan.com)
 
 
 
